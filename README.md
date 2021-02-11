@@ -1,4 +1,4 @@
-# Simon Game
+# Drum Kit
 
 Wanna have fun!!  Click this : [👉🔥 Here 🔥👈](https://enjoydrumkit.netlify.app)
 
