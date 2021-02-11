@@ -1,6 +1,6 @@
 # Simon Game
 
-Wanna have fun!!  Click this : [👉🔥 Here 🔥👈](https://enjoydrumkit.netlify.appp)
+Wanna have fun!!  Click this : [👉🔥 Here 🔥👈](https://enjoydrumkit.netlify.app)
 
 ### Some insights of the project
 
